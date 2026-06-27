@@ -676,6 +676,7 @@
                 </section>
                 <section id="section6">
                     <h6>Remaining Elements</h6>
+                    <p>Using <code>&lt;meter&gt;</code> element.</p>
                     <p>
                         How far have I used html elements:
                         <meter low="20" high="80" max="107" value="93">86.91%</meter>
@@ -695,11 +696,13 @@
                             </div>
                         </details>
                         <hr>
-                    </template>               
+                    </template> 
+                     <p>Using <code>&lt;progress&gt;</code> element.</p>             
                     <p>
                         <label for="html5tags">Use of tags progress:</label>
                         <progress id="html5tags" max="107" value="93">86.91%</progress>
                     </p>
+                    <p>Using <code>&lt;picture&gt;</code> element.</p>
                     <picture>
                         <source
                             srcset="/html5/media/1600x900.webp"
@@ -707,25 +710,28 @@
                         <img src="/html5/media/1600x900.webp" alt="Dainthlen River">
                     </picture>
                     <p>
-                        Embedding this site: 
+                        Embedding this site using <code>&lt;embed&gt;</code> element.
                         <embed src="index.html" type="text/html" width="300" height="400">
                     </p>
+                    <p>Using <code>&lt;audio&gt;</code> element.</p>
                     <figure>
                         <figcaption>Listen to "subinfection_show_me" by subinfected:</figcaption>
                         <audio src="/html5/media/true.mp3" controls></audio>
                         <a href="https://sampleswap.org/mp3/song.php?id=3221">Download Audio</a>
                     </figure>
-                    <p>
+                    <p>Using <code>&lt;canvas&gt;</code> element.
                         <canvas id="canvas" width="240" height="240">
                             Your browser does not support canvas
                         </canvas>
                     </p>
                     <!--These I rarely use so I'm just using examples from MDN-->
+                    <p>Using <code>&lt;dialog&gt;</code> element.</p>
                     <button command="show-modal" commandfor="conformational-dialog">Conformational Isomerism:</button>
                     <dialog id="conformational-dialog">
                         <p>Conformational isomers (or <strong>conformers</strong>) are isomers that differ by rotation around single (sigma) bonds. Unlike other stereoisomers, these <strong>do not require bond-breaking</strong> to inter convert. Conformers for small molecules are not isolated isomers but exist in a dynamic equilibrium. For example, ethane can have <strong>staggered</strong> (more stable) or <strong>eclipse</strong> conformers.</p>
                         <button commandfor="conformational-dialog" command="close">Close</button>
                     </dialog>
+                    <p>Using <code>&lt;data&gt;</code> element.</p>
                     <ul>
                         <li>
                             iPhone 17 Pro: 
@@ -745,6 +751,7 @@
                         </li>
                     </ul>
                     <p>
+                        <p>Using <code>&lt;map&gt;</code> element.</p>
                         <map name="infographic">
                             <area shape="poly" coords="129,0,260,95,129,138" href="https://developer.mozilla.org/docs/Web/HTTP" alt="HTTP">
                             <area shape="poly" coords="260,96,209,249,130,138" href="https://developer.mozilla.org/docs/Web/HTML" alt="HTML" >
@@ -754,6 +761,7 @@
                         </map>
                         <img usemap="#infographic" src="https://1977133b-d019-467a-9660-81af3481a9f7.mdnplay.dev/shared-assets/images/examples/mdn-info.png" alt="MDN infographic" >
                     </p>
+                    <p>Using <code>&lt;video&gt;</code> element.</p>
                     <video controls src="https://developer.mozilla.org/shared-assets/videos/friday.mp4">
                         <track default kind="captions" srclang="en" label="English" src="https://developer.mozilla.org/shared-assets/misc/friday.vtt">
                         Download the <a href="https://developer.mozilla.org/shared-assets/videos/friday.mp4">MP4</a> video, and <a href="https://developer.mozilla.org/shared-assets/misc/friday.vtt">subtitles</a>.

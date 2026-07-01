@@ -3,117 +3,115 @@ A **Kitchen Sink** of HTML elements in it. You can use it for CSS practice or as
 
 ## HTML Element List
 I have tried to list all html elements as found on MDN website, but, excluded those that are depreciated. There are around 107 elements. I have prepared a table of the element name and link to mdn site for each element. I have also indicated those elements that I have added in the [sample html](public_html/index.html) file as ✅ and those not yet included as :x:. Below is the full list:
-
-| Sl no | Element          | Added | Details / Used Elements: 93 / Remaining: 14 / Done 86.91%                           |
-| :---- | :--------------- | :---- | :------------------------------------------------------------------------------------ |
-| 1     | a                | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/a                |
-| 2     | abbr             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/abbr             |
-| 3     | address          | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/address          |
-| 4     | area             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/area             |
-| 5     | article          | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/article          |
-| 6     | aside            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/aside            |
-| 7     | audio            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/audio            |
-| 8     | b                | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/b                |
-| 9     | base             | :x: | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/base             |
-| 10    | bdi              | :x: | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/bdi              |
-| 11    | bdo              | :x: | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/bdo              |
-| 12    | blockquote       | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/blockquote       |
-| 13    | body             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/body             |
-| 14    | br               | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/br               |
-| 15    | button           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/button           |
-| 16    | canvas           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/canvas           |
-| 17    | caption          | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/caption          |
-| 18    | cite             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/cite             |
-| 19    | code             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/code             |
-| 20    | col              | :x: | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/col              |
-| 21    | colgroup         | :x: | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/colgroup         |
-| 22    | data             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/data             |
-| 23    | datalist         | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/datalist         |
-| 24    | dd               | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dd               |
-| 25    | del              | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/del              |
-| 26    | details          | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details          |
-| 27    | dfn              | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dfn              |
-| 28    | dialog           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog           |
-| 29    | div              | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/div              |
-| 30    | dl               | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dl               |
-| 31    | dt               | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dt               |
-| 32    | em               | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/em               |
-| 33    | embed            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/embed            |
-| 34    | fieldset         | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset         |
-| 35    | figcaption       | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/figcaption       |
-| 36    | figure           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/figure           |
-| 37    | footer           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/footer           |
-| 38    | form             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form             |
-| 39    | Heading_Elements | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements |
-| 40    | head             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/head             |
-| 41    | header           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/header           |
-| 42    | hgroup           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/hgroup           |
-| 43    | hr               | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/hr               |
-| 44    | html             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/html             |
-| 45    | i                | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/i                |
-| 46    | iframe           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe           |
-| 47    | img              | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img              |
-| 48    | input            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input            |
-| 49    | ins              | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ins              |
-| 50    | kbd              | :x: | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/kbd              |
-| 51    | label            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/label            |
-| 52    | legend           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/legend           |
-| 53    | li               | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li               |
-| 54    | link             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/link             |
-| 55    | main             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/main             |
-| 56    | map              | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/map              |
-| 57    | mark             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/mark             |
-| 58    | menu             | :x: | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/menu             |
-| 59    | meta             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta             |
-| 60    | meter            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meter            |
-| 61    | nav              | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/nav              |
-| 62    | noscript         | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/noscript         |
-| 63    | object           | :x: | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object           |
-| 64    | ol               | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ol               |
-| 65    | optgroup         | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/optgroup         |
-| 66    | option           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/option           |
-| 67    | output           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/output           |
-| 68    | p                | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/p                |
-| 69    | picture          | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture          |
-| 70    | pre              | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/pre              |
-| 71    | progress         | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/progress         |
-| 72    | q                | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/q                |
-| 73    | rp               | :x: | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/rp               |
-| 74    | rt               | :x: | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/rt               |
-| 75    | ruby             | :x: | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ruby             |
-| 76    | s                | :x: | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/s                |
-| 77    | samp             | :x: | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/samp             |
-| 78    | script           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script           |
-| 79    | search           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/search           |
-| 80    | section          | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/section          |
-| 81    | select           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/select           |
-| 82    | slot             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/slot             |
-| 83    | small            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/small            |
-| 84    | source           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/source           |
-| 85    | span             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/span             |
-| 86    | strong           | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/strong           |
-| 87    | style            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/style            |
-| 88    | sub              | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sub              |
-| 89    | summary          | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/summary          |
-| 90    | sup              | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sup              |
-| 91    | table            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table            |
-| 92    | tbody            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/tbody            |
-| 93    | td               | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/td               |
-| 94    | template         | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template         |
-| 95    | textarea         | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/textarea         |
-| 96    | tfoot            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/tfoot            |
-| 97    | th               | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/th               |
-| 98    | thead            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/thead            |
-| 99    | time             | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/time             |
-| 100   | title            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/title            |
-| 101   | tr               | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/tr               |
-| 102   | track            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/track            |
-| 103   | u                | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/u                |
-| 104   | ul               | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ul               |
-| 105   | var              | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/var              |
-| 106   | video            | ✅  | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video            |
-| 107   | wbr              | :x: | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/wbr              |
-
+| Sl no | Element          | Added | Details / Used: 93 / Remaining: 14 / Done 86.92%                                                                              |
+| :---- | :--------------- | :---- | :------------------------------------------------------------------------------------------------------------------- |
+| 1     | a                | ✅  | [Element: &lt;a&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/a)                               |
+| 2     | abbr             | ✅  | [Element: &lt;abbr&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/abbr)                         |
+| 3     | address          | ✅  | [Element: &lt;address&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/address)                   |
+| 4     | area             | ✅  | [Element: &lt;area&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/area)                         |
+| 5     | article          | ✅  | [Element: &lt;article&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/article)                   |
+| 6     | aside            | ✅  | [Element: &lt;aside&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/aside)                       |
+| 7     | audio            | ✅  | [Element: &lt;audio&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/audio)                       |
+| 8     | b                | ✅  | [Element: &lt;b&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/b)                               |
+| 9     | base             | :x: | [Element: &lt;base&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/base)                         |
+| 10    | bdi              | :x: | [Element: &lt;bdi&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/bdi)                           |
+| 11    | bdo              | :x: | [Element: &lt;bdo&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/bdo)                           |
+| 12    | blockquote       | ✅  | [Element: &lt;blockquote&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/blockquote)             |
+| 13    | body             | ✅  | [Element: &lt;body&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/body)                         |
+| 14    | br               | ✅  | [Element: &lt;br&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/br)                             |
+| 15    | button           | ✅  | [Element: &lt;button&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/button)                     |
+| 16    | canvas           | ✅  | [Element: &lt;canvas&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/canvas)                     |
+| 17    | caption          | ✅  | [Element: &lt;caption&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/caption)                   |
+| 18    | cite             | ✅  | [Element: &lt;cite&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/cite)                         |
+| 19    | code             | ✅  | [Element: &lt;code&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/code)                         |
+| 20    | col              | :x: | [Element: &lt;col&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/col)                           |
+| 21    | colgroup         | :x: | [Element: &lt;colgroup&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/colgroup)                 |
+| 22    | data             | ✅  | [Element: &lt;data&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/data)                         |
+| 23    | datalist         | ✅  | [Element: &lt;datalist&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/datalist)                 |
+| 24    | dd               | ✅  | [Element: &lt;dd&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dd)                             |
+| 25    | del              | ✅  | [Element: &lt;del&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/del)                           |
+| 26    | details          | ✅  | [Element: &lt;details&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details)                   |
+| 27    | dfn              | ✅  | [Element: &lt;dfn&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dfn)                           |
+| 28    | dialog           | ✅  | [Element: &lt;dialog&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog)                     |
+| 29    | div              | ✅  | [Element: &lt;div&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/div)                           |
+| 30    | dl               | ✅  | [Element: &lt;dl&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dl)                             |
+| 31    | dt               | ✅  | [Element: &lt;dt&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dt)                             |
+| 32    | em               | ✅  | [Element: &lt;em&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/em)                             |
+| 33    | embed            | ✅  | [Element: &lt;embed&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/embed)                       |
+| 34    | fieldset         | ✅  | [Element: &lt;fieldset&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset)                 |
+| 35    | figcaption       | ✅  | [Element: &lt;figcaption&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/figcaption)             |
+| 36    | figure           | ✅  | [Element: &lt;figure&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/figure)                     |
+| 37    | footer           | ✅  | [Element: &lt;footer&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/footer)                     |
+| 38    | form             | ✅  | [Element: &lt;form&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form)                         |
+| 39    | Heading_Elements | ✅  | [Element: &lt;Heading_Elements&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements) |
+| 40    | head             | ✅  | [Element: &lt;head&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/head)                         |
+| 41    | header           | ✅  | [Element: &lt;header&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/header)                     |
+| 42    | hgroup           | ✅  | [Element: &lt;hgroup&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/hgroup)                     |
+| 43    | hr               | ✅  | [Element: &lt;hr&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/hr)                             |
+| 44    | html             | ✅  | [Element: &lt;html&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/html)                         |
+| 45    | i                | ✅  | [Element: &lt;i&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/i)                               |
+| 46    | iframe           | ✅  | [Element: &lt;iframe&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe)                     |
+| 47    | img              | ✅  | [Element: &lt;img&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img)                           |
+| 48    | input            | ✅  | [Element: &lt;input&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input)                       |
+| 49    | ins              | ✅  | [Element: &lt;ins&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ins)                           |
+| 50    | kbd              | :x: | [Element: &lt;kbd&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/kbd)                           |
+| 51    | label            | ✅  | [Element: &lt;label&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/label)                       |
+| 52    | legend           | ✅  | [Element: &lt;legend&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/legend)                     |
+| 53    | li               | ✅  | [Element: &lt;li&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li)                             |
+| 54    | link             | ✅  | [Element: &lt;link&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/link)                         |
+| 55    | main             | ✅  | [Element: &lt;main&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/main)                         |
+| 56    | map              | ✅  | [Element: &lt;map&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/map)                           |
+| 57    | mark             | ✅  | [Element: &lt;mark&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/mark)                         |
+| 58    | menu             | :x: | [Element: &lt;menu&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/menu)                         |
+| 59    | meta             | ✅  | [Element: &lt;meta&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta)                         |
+| 60    | meter            | ✅  | [Element: &lt;meter&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meter)                       |
+| 61    | nav              | ✅  | [Element: &lt;nav&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/nav)                           |
+| 62    | noscript         | ✅  | [Element: &lt;noscript&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/noscript)                 |
+| 63    | object           | :x: | [Element: &lt;object&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object)                     |
+| 64    | ol               | ✅  | [Element: &lt;ol&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ol)                             |
+| 65    | optgroup         | ✅  | [Element: &lt;optgroup&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/optgroup)                 |
+| 66    | option           | ✅  | [Element: &lt;option&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/option)                     |
+| 67    | output           | ✅  | [Element: &lt;output&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/output)                     |
+| 68    | p                | ✅  | [Element: &lt;p&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/p)                               |
+| 69    | picture          | ✅  | [Element: &lt;picture&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture)                   |
+| 70    | pre              | ✅  | [Element: &lt;pre&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/pre)                           |
+| 71    | progress         | ✅  | [Element: &lt;progress&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/progress)                 |
+| 72    | q                | ✅  | [Element: &lt;q&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/q)                               |
+| 73    | rp               | :x: | [Element: &lt;rp&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/rp)                             |
+| 74    | rt               | :x: | [Element: &lt;rt&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/rt)                             |
+| 75    | ruby             | :x: | [Element: &lt;ruby&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ruby)                         |
+| 76    | s                | :x: | [Element: &lt;s&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/s)                               |
+| 77    | samp             | :x: | [Element: &lt;samp&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/samp)                         |
+| 78    | script           | ✅  | [Element: &lt;script&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script)                     |
+| 79    | search           | ✅  | [Element: &lt;search&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/search)                     |
+| 80    | section          | ✅  | [Element: &lt;section&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/section)                   |
+| 81    | select           | ✅  | [Element: &lt;select&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/select)                     |
+| 82    | slot             | ✅  | [Element: &lt;slot&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/slot)                         |
+| 83    | small            | ✅  | [Element: &lt;small&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/small)                       |
+| 84    | source           | ✅  | [Element: &lt;source&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/source)                     |
+| 85    | span             | ✅  | [Element: &lt;span&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/span)                         |
+| 86    | strong           | ✅  | [Element: &lt;strong&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/strong)                     |
+| 87    | style            | ✅  | [Element: &lt;style&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/style)                       |
+| 88    | sub              | ✅  | [Element: &lt;sub&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sub)                           |
+| 89    | summary          | ✅  | [Element: &lt;summary&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/summary)                   |
+| 90    | sup              | ✅  | [Element: &lt;sup&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sup)                           |
+| 91    | table            | ✅  | [Element: &lt;table&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table)                       |
+| 92    | tbody            | ✅  | [Element: &lt;tbody&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/tbody)                       |
+| 93    | td               | ✅  | [Element: &lt;td&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/td)                             |
+| 94    | template         | ✅  | [Element: &lt;template&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template)                 |
+| 95    | textarea         | ✅  | [Element: &lt;textarea&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/textarea)                 |
+| 96    | tfoot            | ✅  | [Element: &lt;tfoot&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/tfoot)                       |
+| 97    | th               | ✅  | [Element: &lt;th&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/th)                             |
+| 98    | thead            | ✅  | [Element: &lt;thead&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/thead)                       |
+| 99    | time             | ✅  | [Element: &lt;time&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/time)                         |
+| 100   | title            | ✅  | [Element: &lt;title&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/title)                       |
+| 101   | tr               | ✅  | [Element: &lt;tr&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/tr)                             |
+| 102   | track            | ✅  | [Element: &lt;track&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/track)                       |
+| 103   | u                | ✅  | [Element: &lt;u&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/u)                               |
+| 104   | ul               | ✅  | [Element: &lt;ul&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ul)                             |
+| 105   | var              | ✅  | [Element: &lt;var&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/var)                           |
+| 106   | video            | ✅  | [Element: &lt;video&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video)                       |
+| 107   | wbr              | :x: | [Element: &lt;wbr&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/wbr)                           |
 
 ## My html site
 View the site at [fdiengdoh.github.io/html5](https://fdiengdoh.github.io/html5)
